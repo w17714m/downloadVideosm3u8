@@ -1,0 +1,12 @@
+pip
+requests
+colorama
+requests[security]
+unidecode
+selenium
+BeautifulSoup4
+ffmpy
+m3u8
+urlparse3
+gevent
+monkey
